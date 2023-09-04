@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T20:00:19.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="xN2FjVvc-2X39n6-sKPK" version="21.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-04T20:09:27.833Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="kkyfW6Bn-tKW0Ty7O_2h" version="21.7.2" type="github" pages="2">
   <diagram name="Page-1" id="1zwPtqB9l2bWW5O2SAb1">
     <mxGraphModel dx="1276" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,10 +19,32 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HHGCkESWU1YI9tuVtw37" name="Page-2">
-    <mxGraphModel dx="1531" dy="889" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1931" dy="1289" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XybgEKAgNjlFZR_4ZTsr-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="XybgEKAgNjlFZR_4ZTsr-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="237" y="-168" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XybgEKAgNjlFZR_4ZTsr-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="XybgEKAgNjlFZR_4ZTsr-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="32" y="-168" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XybgEKAgNjlFZR_4ZTsr-1" value="Vrsta roletne" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="77" y="-289" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XybgEKAgNjlFZR_4ZTsr-2" value="Unutrasnja" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="-165" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="XybgEKAgNjlFZR_4ZTsr-4" value="Spoljasnja" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-169" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="XybgEKAgNjlFZR_4ZTsr-8" value="Unutrasnja" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="97" width="120" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
