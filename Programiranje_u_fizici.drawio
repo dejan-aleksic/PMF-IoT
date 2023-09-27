@@ -1,32 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T22:08:29.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="cc7JYBxRyfLrFN0XtfkE" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-27T22:08:50.932Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="e3baPdqmxQB7lATihLLp" version="21.8.0" type="github">
   <diagram name="Page-1" id="v8bC0ISwI544UaWsLMjW">
-    <mxGraphModel dx="2713" dy="889" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3521" dy="1270" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NqR2vv7vECb0ex2Q4SwO-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;gradientDirection=west;rotation=-180;" parent="1" vertex="1">
-          <mxGeometry x="-264" y="43" width="120" height="201" as="geometry" />
+          <mxGeometry x="-738" y="70" width="120" height="201" as="geometry" />
         </mxCell>
         <mxCell id="NqR2vv7vECb0ex2Q4SwO-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;gradientDirection=east;rotation=-180;" parent="1" vertex="1">
-          <mxGeometry x="265" y="41" width="120" height="201" as="geometry" />
+          <mxGeometry x="-209" y="68" width="120" height="201" as="geometry" />
         </mxCell>
         <mxCell id="NqR2vv7vECb0ex2Q4SwO-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#d5e8d4;strokeColor=#82b366;rotation=90;gradientColor=#97d077;gradientDirection=west;" parent="1" vertex="1">
-          <mxGeometry x="3" y="210" width="120" height="215.5" as="geometry" />
+          <mxGeometry x="-471" y="237" width="120" height="215.5" as="geometry" />
         </mxCell>
         <mxCell id="NqR2vv7vECb0ex2Q4SwO-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;gradientDirection=radial;rotation=-180;" parent="1" vertex="1">
-          <mxGeometry x="-119" y="43" width="364" height="201" as="geometry" />
+          <mxGeometry x="-593" y="70" width="364" height="201" as="geometry" />
         </mxCell>
         <mxCell id="NqR2vv7vECb0ex2Q4SwO-8" value="Sistemska magistrala" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" parent="1" vertex="1">
-          <mxGeometry x="41" y="123" width="60" height="30" as="geometry" />
+          <mxGeometry x="-433" y="150" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NqR2vv7vECb0ex2Q4SwO-9" value="Centralna&lt;br&gt;procesorska&lt;br&gt;jedinica" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="-236" y="134" width="60" height="30" as="geometry" />
+          <mxGeometry x="-710" y="161" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NqR2vv7vECb0ex2Q4SwO-11" value="Memorijski&lt;br&gt;podsistem" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="299" y="128.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="-175" y="155.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NqR2vv7vECb0ex2Q4SwO-14" value="Ulazno/Izlazni podsistem" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" parent="1" vertex="1">
-          <mxGeometry x="33" y="310" width="60" height="30" as="geometry" />
+          <mxGeometry x="-441" y="337" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
