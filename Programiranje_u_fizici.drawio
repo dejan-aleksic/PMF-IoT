@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T17:29:48.912Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="JPV0K-tkanSIT_GpMMSo" version="22.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-11T17:39:44.856Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="yY257S05orY1S4486XTA" version="22.0.4" type="github" pages="2">
   <diagram name="Page-1" id="v8bC0ISwI544UaWsLMjW">
-    <mxGraphModel dx="4601" dy="613" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="5994" dy="1270" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1036,6 +1036,97 @@
             <mxPoint x="-1040" y="6268" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vr_-S5PpmoYNfvZAoEJV-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Izvorni &lt;br&gt;program&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-1359" y="6718.5" width="200" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="vr_-S5PpmoYNfvZAoEJV-9" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=0;startSize=8;endSize=8;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;strokeColor=#990000;entryX=0;entryY=0.548;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="vr_-S5PpmoYNfvZAoEJV-11" target="vr_-S5PpmoYNfvZAoEJV-10" parent="1">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="-1119" y="6785" as="sourcePoint" />
+            <mxPoint x="-979" y="6775" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vr_-S5PpmoYNfvZAoEJV-10" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;objektni &lt;br&gt;program&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-811" y="6718.5" width="200" height="109.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vr_-S5PpmoYNfvZAoEJV-11" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Asembler&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-1064" y="6732" width="160" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="vr_-S5PpmoYNfvZAoEJV-12" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=0;startSize=8;endSize=8;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;strokeColor=#990000;" edge="1" source="vr_-S5PpmoYNfvZAoEJV-8" target="vr_-S5PpmoYNfvZAoEJV-11" parent="1">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="-892" y="6788" as="sourcePoint" />
+            <mxPoint x="-1054" y="6778" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1117" y="6771" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vr_-S5PpmoYNfvZAoEJV-13" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 24px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&amp;nbsp;simbolički &lt;br&gt;jezik&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-1331" y="6834" width="144" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="vr_-S5PpmoYNfvZAoEJV-14" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Izveštaj o greškama&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-1066" y="6912" width="164" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="vr_-S5PpmoYNfvZAoEJV-15" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=0;startSize=8;endSize=8;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;strokeColor=#990000;" edge="1" parent="1" source="vr_-S5PpmoYNfvZAoEJV-11" target="vr_-S5PpmoYNfvZAoEJV-14">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="-891.5" y="6780" as="sourcePoint" />
+            <mxPoint x="-793.5" y="6785" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-980" y="6870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vr_-S5PpmoYNfvZAoEJV-16" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 24px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&amp;nbsp;mašinski&lt;br&gt;jezik&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-777" y="6830" width="144" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="vr_-S5PpmoYNfvZAoEJV-17" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Povezivač&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-500.5" y="6595" width="160" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="vr_-S5PpmoYNfvZAoEJV-18" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;objektni &lt;br&gt;program &lt;br&gt;(rutine niskog nivoa)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-811" y="6443" width="200" height="124.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vr_-S5PpmoYNfvZAoEJV-19" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 24px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&amp;nbsp;mašinski&lt;br&gt;jezik&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-788" y="6567.5" width="144" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="vr_-S5PpmoYNfvZAoEJV-20" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=0;startSize=8;endSize=8;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;exitX=1.016;exitY=0.55;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;strokeColor=#990000;exitPerimeter=0;entryX=0.013;entryY=0.332;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vr_-S5PpmoYNfvZAoEJV-18" target="vr_-S5PpmoYNfvZAoEJV-17">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="-460" y="6525" as="sourcePoint" />
+            <mxPoint x="-373" y="6527" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vr_-S5PpmoYNfvZAoEJV-21" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=0;startSize=8;endSize=8;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;strokeColor=#990000;entryX=0.044;entryY=0.736;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vr_-S5PpmoYNfvZAoEJV-10" target="vr_-S5PpmoYNfvZAoEJV-17">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="-598" y="6521" as="sourcePoint" />
+            <mxPoint x="-494" y="6666" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vr_-S5PpmoYNfvZAoEJV-22" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Izveštaj o greškama&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-502.5" y="6910" width="164" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="vr_-S5PpmoYNfvZAoEJV-23" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=0;startSize=8;endSize=8;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;strokeColor=#990000;" edge="1" target="vr_-S5PpmoYNfvZAoEJV-22" parent="1" source="vr_-S5PpmoYNfvZAoEJV-17">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="-420.5" y="6821" as="sourcePoint" />
+            <mxPoint x="-230" y="6783" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-420" y="6863" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vr_-S5PpmoYNfvZAoEJV-24" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;izvršni&lt;br&gt;program&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-255" y="6585.75" width="200" height="109.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vr_-S5PpmoYNfvZAoEJV-25" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=0;startSize=8;endSize=8;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;strokeColor=#990000;" edge="1" parent="1" source="vr_-S5PpmoYNfvZAoEJV-17" target="vr_-S5PpmoYNfvZAoEJV-24">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="-278" y="6796" as="sourcePoint" />
+            <mxPoint x="-191" y="6798" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vr_-S5PpmoYNfvZAoEJV-27" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 24px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&amp;nbsp;mašinski&lt;br&gt;jezik&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-224" y="6704" width="144" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
